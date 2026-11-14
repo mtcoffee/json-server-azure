@@ -1,6 +1,6 @@
 # Deploy `json-server` to `Azure Web App`
 
-Borrowed from https://github.com/jesperorb/json-server-heroku
+Borrowed from https://github.com/rymdar/json-server-heroku
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
